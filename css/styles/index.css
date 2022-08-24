@@ -1,0 +1,29 @@
+/**? FONT PERSONALIZADA */
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Roboto:wght@500&display=swap');
+
+#logo-text {
+    font-size: 2.3rem;
+}
+
+#titulo-h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.7rem;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.borda {
+    border: 1px solid red;
+}
+
+.f-cursiva {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-weight: 700;
+    font-size: 1.10rem;
+}
+
+.p-texto {
+    padding: 2rem;
+}
